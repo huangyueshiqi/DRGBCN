@@ -31,5 +31,6 @@ Clone this GitHub repo and set up a new conda environment.
 cd DRGBCN
 python demo_t.py
 ```
-
-
+```device
+RTX2080Ti
+```
